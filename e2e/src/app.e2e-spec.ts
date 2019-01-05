@@ -9,6 +9,6 @@ describe('workspace-project App', () => {
 
   it('should display welcome message', () => {
     page.navigateTo();
-    expect(page.getTitleText()).toEqual('Welcome to first-angular-app!');
+    expect(page.getTitleText()).toEqual('Welcome to new-idea!');
   });
 });
