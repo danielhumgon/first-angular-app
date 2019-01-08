@@ -1,8 +1,10 @@
+@import url( 'https://fonts.googleapis.com/css?family=Roboto:400,700|Material+Icons');
 @import "~@angular/material/prebuilt-themes/deeppurple-amber.css";
 
 html,
 body {
     height: 100%;
+    font-family: 'Anton', sans-serif;
 }
 
 body {
